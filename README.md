@@ -2,7 +2,7 @@
 
 ---
 
-# 📧 Cold Mail Generator
+#  Cold Mail Generator
 
 A cold email generator for service-based companies using Groq, LangChain, and Streamlit. This tool allows users to input the URL of a company’s careers page, extracts relevant job listings, and generates personalized cold emails. Each email includes portfolio links sourced from a vector database to tailor the message to specific job requirements.
 
